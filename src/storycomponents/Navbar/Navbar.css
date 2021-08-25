@@ -1,0 +1,14 @@
+.navbar{
+    background-color: black;
+    color: white;
+    height: 80px;
+    width: 100%;
+    display: block;
+    border: 1px solid black;
+}
+
+.nav{
+    color: white;
+    background-color: red;
+
+}
