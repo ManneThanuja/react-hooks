@@ -24,7 +24,7 @@ function App() {
           <Route path='/Contact' component={Contact} />
         </Switch>
       </Router> */}
-      <h1>learn react</h1>
+      <h1>learn react.</h1>
     </>
   );
 }
